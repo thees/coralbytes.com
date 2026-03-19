@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[75294,["/_next/static/chunks/bc77a8cc6b0bf554.js","/_next/static/chunks/0643bdeb53f83973.js"],"ViewportBoundary"]
+3:I[75294,["/_next/static/chunks/bc77a8cc6b0bf554.js","/_next/static/chunks/0643bdeb53f83973.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[11511,["/_next/static/chunks/bc77a8cc6b0bf554.js","/_next/static/chunks/0643bdeb53f83973.js"],"IconMark"]
+0:{"buildId":"1QKe0oveJLDB3Qqu7TF9v","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"icon","href":"/favicon.ico?favicon.d327a3ea.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","1",{"rel":"icon","href":"/icon.png?icon.b69ecf01.png","sizes":"32x32","type":"image/png"}],["$","link","2",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.8d066e7b.png","sizes":"180x180","type":"image/png"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
