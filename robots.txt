@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://coralbytes.com/sitemap.xml

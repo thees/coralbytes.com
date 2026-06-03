@@ -1,0 +1,29 @@
+# CoralBytes
+
+> Principal-level engineering and consulting. CoralBytes helps technology organizations ship faster, scale reliably, and build engineering cultures that work — operating at the intersection of organization, architecture, and code. Available in English (`/en/`) and German (`/de/`).
+
+CoralBytes is a software architecture, platform engineering, and engineering-culture consultancy. Engagements are hands-on and outcome-focused rather than slide-deck advisory: "Talking is easy. Delivering is not."
+
+## Services
+
+- [Engineering Excellence](https://coralbytes.com/en/): Hands-on architecture and core development, infrastructure automation (IaC), and observability/performance — driving throughput with less firefighting.
+- [AI-Native Engineering](https://coralbytes.com/en/): Embedding AI across the engineering lifecycle (AI-native workflows, AI-assisted quality control, and AI governance for security and maintainability) — AI as a multiplier, not a risk.
+- [Organizational Design](https://coralbytes.com/en/): Team topologies, pragmatic lean delivery, and outcome alignment — clear ownership, reduced complexity, informed decisions.
+- [Technology Advisory](https://coralbytes.com/en/): Architecture audits and strategy, build-vs-buy and vendor strategy, and technical due diligence for investors and partners.
+
+## Case Studies
+
+- [Enterprise Retail](https://coralbytes.com/en/cases/enterprise-retail/): POS infrastructure at 15,000 edge devices across 15 countries — automated cloud infrastructure and configuration pipelines (GKE, Kubernetes, Terraform, GitLab CI, Ansible).
+- [Fulfillment Technology](https://coralbytes.com/en/cases/fulfillment-technology/): A multi-tenant SaaS platform built from zero to production in under two years as the founding engineering core (GCP, serverless, TypeScript, Node.js, GraphQL).
+- [Digital Commerce](https://coralbytes.com/en/cases/digital-commerce/): Turning hyper-growth from a liability into a competitive edge — lateral leadership, high-availability microservices, and unblocked product velocity.
+- [Telecommunications](https://coralbytes.com/en/cases/telecommunications/): A model-driven SOA platform that ran a leading German telco for 10 years — core messaging middleware and agile transformation.
+
+## Legal
+
+- [Legal Notice / Impressum](https://coralbytes.com/en/impressum/)
+- [Privacy Policy](https://coralbytes.com/en/privacy/)
+
+## Optional
+
+- [Sitemap](https://coralbytes.com/sitemap.xml)
+- [German site](https://coralbytes.com/de/)
